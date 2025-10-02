@@ -6,3 +6,4 @@ title = "HelloWorldSample"
 
 [build-options]
 sticky = true
+remoteManagement = true
