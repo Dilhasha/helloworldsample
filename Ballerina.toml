@@ -1,0 +1,8 @@
+[package]
+org = "dilhasha"
+name = "helloworldsample"
+version = "0.1.0"
+title = "HelloWorldSample"
+
+[build-options]
+sticky = true
